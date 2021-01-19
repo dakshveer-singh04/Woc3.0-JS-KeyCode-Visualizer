@@ -1,0 +1,26 @@
+* {
+    background-color: rgb(245, 172, 78);
+    user-select:none ;
+}
+table {
+    text-align: center;
+    background-color: rgb(14, 230, 140);
+    font-size: 25px;
+    padding: 5px;
+    border-radius: 15px;
+}
+th {
+    font-size: 60px;
+    font-family: 'Nerko One', cursive;
+    background-color: cadetblue;
+    padding: 10px;
+    border-radius: 10px;
+}
+td {
+    font-size: 30px;
+    font-family: 'Cookie', cursive;
+    background-color: rgb(182, 164, 141);
+    padding: 10px;
+    border-radius: 5px;
+    width: 250px;
+}
