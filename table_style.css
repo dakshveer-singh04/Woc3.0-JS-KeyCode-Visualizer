@@ -11,8 +11,7 @@ table {
 }
 th {
     font-size: 40px;
-    /*font-family: 'Archivo Black', sans-serif;*/
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
     background-color: cadetblue;
     padding: 10px;
     border-radius: 10px;
