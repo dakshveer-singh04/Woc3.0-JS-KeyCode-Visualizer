@@ -10,16 +10,15 @@ table {
     border-radius: 15px;
 }
 th {
-    font-size: 40px;
-    /*font-family: 'Archivo Black', sans-serif;*/
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 60px;
+    font-family: 'Nerko One', cursive;
     background-color: cadetblue;
     padding: 10px;
     border-radius: 10px;
 }
 td {
-    font-size: 20px;
-    font-family:'Times New Roman', Times, serif;
+    font-size: 30px;
+    font-family: 'Cookie', cursive;
     background-color: rgb(182, 164, 141);
     padding: 10px;
     border-radius: 5px;
