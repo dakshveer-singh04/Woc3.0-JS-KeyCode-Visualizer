@@ -1,0 +1,74 @@
+body {
+    background-color: rgb(245, 172, 78);
+    /*background-color: rgb(50, 216, 72);*/
+    user-select:none ;
+}
+table {
+    text-align: center;   
+    background-color: rgb(14, 230, 140);
+    font-size: 25px;
+    padding: 5px;
+    border-radius: 15px;
+    margin-top: 70px;
+}
+th {
+    font-size: 60px;
+    font-family: 'Nerko One', cursive;
+    background-color: cadetblue;
+    padding: 10px;
+    border-radius: 10px;
+}
+td {
+    font-size: 30px;
+    font-family: 'Cookie', cursive;
+    background-color: rgb(182, 164, 141);
+    padding: 10px;
+    border-radius: 5px;
+    width: 250px;
+}
+
+#dispkey {
+    background-color:inherit;
+}
+
+#disp {
+    margin-left: auto; margin-right: auto;
+    align-content: center;
+    background-color: rgb(165, 230, 14); 
+    border-radius: 10px;
+    text-align: center;
+    position :absolute;
+    top:40px; left:30%;
+    width: 40%;
+    height :200px; 
+    visibility: hidden;
+    font-family:'Cookie';
+    margin-top: 30px;
+}
+
+.righton {
+    font-size: xx-large;
+    color: darkred;
+}
+
+
+button {
+    background-color: darkslategrey;
+    padding: 10px;
+    margin : 10px;
+    width : 200px;
+    color: antiquewhite;
+    font-size: larger;
+    border-radius: 10px;
+}
+
+#head {
+    background-color: darkblue; color: beige;
+    position:fixed;
+    top:0; left:0;
+    width:100%; height: 35px;
+    text-align: center;
+    padding: 6px;
+    font-family:'Cookie', cursive;
+    font-size: xx-large;
+}
